@@ -1,0 +1,12 @@
+<group>
+	<Pyramid_Scale>0.5</Pyramid_Scale>
+	<Pyramid_Levels>4</Pyramid_Levels>
+	<Iterations>2</Iterations>
+	<Polynomial_size>7</Polynomial_size>
+	<PolySigma>1.5</PolySigma>
+	<Use_Gaussian>1</Use_Gaussian>
+	<Window_size>32</Window_size>
+	<Loop_video>1</Loop_video>
+	<Scale_video>2</Scale_video>
+	<Draw_line_width>4</Draw_line_width>
+</group>
